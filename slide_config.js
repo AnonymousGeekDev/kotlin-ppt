@@ -7,6 +7,10 @@ var SLIDE_CONFIG = {
      title: 'Google I/O Extended Kozhikode 2017',
      date: ''
     },*/
+    /* eventInfo: {
+      title: 'Google DevFest 2019',
+      date: '02/11/2019'
+    },*/
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
