@@ -25,7 +25,12 @@ var SLIDE_CONFIG = {
     name: 'Ajith v',
     company: 'Android Developer<br>SoftFruit Solutions',
     github: 'http://github.com/ajithvgiri'
-  }/*, {
+  }, 
+  {
+   name: 'Yufui Glen',
+   company: 'Principal Android Developer<br>InfoTech Solutions',
+   github: 'https://github.com/AnonymousGeekDev'
+  } /*, {
     name: 'Second Name',
     company: 'Job Title, Google',
     gplus: 'http://plus.google.com/1234567890',
