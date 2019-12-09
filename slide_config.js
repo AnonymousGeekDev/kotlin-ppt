@@ -25,11 +25,11 @@ var SLIDE_CONFIG = {
   },
 
   // Author information
-  presenters: [{
+  presenters: [/*{
     name: 'Ajith v',
     company: 'Android Developer<br>SoftFruit Solutions',
     github: 'http://github.com/ajithvgiri'
-  }, 
+  },*/ 
   {
    name: 'Yufui Glen',
    company: 'Principal Android Developer<br>InfoTech Solutions',
